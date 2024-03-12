@@ -1,1 +1,2 @@
-# dataviz_tarea2
+PostreSQL --> Jesus
+Series de Tiempo --> Célien
